@@ -1,2 +1,2 @@
-# Référentiel Régional Pédolohique Auvergne
+# Référentiel Régional Pédologique Auvergne
 Directory containing soil maps produced by various pedologists employed by VetAgro Sup as part of the Auvergne soil mapping program.
